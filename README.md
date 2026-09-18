@@ -14,6 +14,7 @@
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-7B2CBF?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -31,7 +32,7 @@ My work combines hands-on engineering with technical leadership across:
 - 🔎 **Semantic Search & Vector Databases**
 - 🔗 **MCP, APIs & AI Integrations**
 - 🐍 **Python Backend Engineering**
-- ☁️ **Microsoft Azure & Cloud Infrastructure**
+- ☁️ **Microsoft Azure, AWS & Cloud Infrastructure**
 - 🏗️ **Software & AI Architecture**
 - 👥 **Engineering Leadership & Developer Mentoring**
 
@@ -101,35 +102,46 @@ I believe good technical leadership is about creating an environment where the *
 ### Areas I'm building around
 
 ```text
-LLMs
- ├── Multi-model AI systems
+LLM Systems
+ ├── Multi-model / provider-independent architectures
  ├── Prompt & context engineering
  ├── Structured outputs
- └── Provider-independent architectures
+ ├── Tool / function calling
+ ├── Conversation & memory patterns
+ ├── Model routing and abstraction
+ └── Guardrails and output validation
 
-RAG
+RAG & Knowledge
  ├── Document ingestion
- ├── Chunking
- ├── Embeddings
- ├── Semantic retrieval
- ├── Context injection
- └── Grounded generation
+ ├── Parsing, cleaning & chunking
+ ├── Embedding generation
+ ├── Vector indexing
+ ├── Semantic & hybrid retrieval
+ ├── Metadata filtering
+ ├── Reranking
+ ├── Context assembly
+ ├── Grounded generation
+ └── Retrieval quality evaluation
 
 Agentic AI
- ├── Planning
+ ├── Planning & multi-step execution
  ├── Tool use
- ├── MCP
- ├── Permissions
- ├── Human approvals
- └── Multi-step execution
+ ├── MCP servers and integrations
+ ├── Agent permissions
+ ├── Human-in-the-loop approvals
+ ├── Workflow orchestration
+ └── Execution boundaries
 
 Production AI
  ├── Authentication & authorization
  ├── Multi-tenancy
- ├── Observability
- ├── Evaluations
- ├── Background jobs
- └── Cloud infrastructure
+ ├── AI security & permission boundaries
+ ├── Evaluation pipelines
+ ├── Observability & tracing
+ ├── Background jobs & queues
+ ├── Caching & rate limiting
+ ├── Cost / usage controls
+ └── Cloud deployment
 ```
 
 ---
@@ -203,6 +215,7 @@ Database / LLMs / APIs / Cloud
 <div align="center">
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure Blob](https://img.shields.io/badge/Azure_Blob_Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -321,7 +334,7 @@ Grounded AI Support
 ## 🧰 Technology Toolbox
 
 **AI & LLM**  
-`LLMs` · `RAG` · `Embeddings` · `Vector Search` · `Agentic AI` · `MCP` · `Hugging Face` · `Ollama`
+`LLMs` · `Generative AI` · `RAG` · `Embeddings` · `Semantic Search` · `Hybrid Search` · `Reranking` · `Vector Search` · `Structured Outputs` · `Tool Calling` · `Agentic AI` · `MCP` · `AI Evaluations` · `Observability` · `Hugging Face` · `Ollama`
 
 **Backend**  
 `Python` · `FastAPI` · `Pydantic` · `SQLAlchemy` · `Alembic` · `REST APIs`
@@ -333,10 +346,13 @@ Grounded AI Support
 `React` · `TypeScript` · `Vite`
 
 **Cloud & DevOps**  
-`Microsoft Azure` · `Docker` · `GitHub Actions` · `CI/CD` · `Azure Blob Storage` · `Azure Key Vault`
+`Microsoft Azure` · `AWS` · `Docker` · `GitHub Actions` · `CI/CD` · `Azure Blob Storage` · `Azure Key Vault`
 
 **Architecture & Leadership**  
 `Clean Architecture` · `Service Layer` · `Repository Pattern` · `API Design` · `Authentication` · `Authorization` · `Multi-Tenant Systems` · `Mentoring` · `Code Reviews` · `Technical Leadership`
+
+**Additional Engineering Background**  
+`PHP` · `Laravel` · `REST APIs` · `Backend Architecture`
 
 ---
 
