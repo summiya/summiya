@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C9FF&height=220&section=header&text=Summiya%20Rasheed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Technical%20Lead%20%E2%80%A2%20LLM%20%26%20Agentic%20AI%20Systems&descAlignY=57&descSize=19" />
+<img width="100%" src="./assets/profile-banner.svg" alt="Summiya Rasheed — AI Engineer and Technical Lead" />
 
 ### 🧠 Building AI systems. Leading engineering teams. Turning ideas into production.
 
