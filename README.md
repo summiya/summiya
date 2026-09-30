@@ -87,16 +87,6 @@ My work combines **backend architecture, distributed systems, cloud, and applied
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=summiya&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💫 Building scalable backend systems for the AI era.
