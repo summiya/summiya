@@ -1,96 +1,116 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:111827,45:1E3A8A,100:0F766E&text=Summiya%20Rasheed&fontColor=F8FAFC&fontSize=42&fontAlignY=40&desc=Senior%20Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Technical%20Leadership&descAlignY=68&descSize=17" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:7F00FF,50:E100FF,100:00C9FF&text=Summiya%20Rasheed&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Technical%20Lead&descAlignY=60&descSize=18&animation=fadeIn" />
+## About
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=E100FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Python+%7C+Java+%7C+FastAPI+%7C+Spring+Boot;RAG+%7C+LLMs+%7C+Agents+%7C+Distributed+Systems;Cloud+%7C+Scalable+Backend+Architecture" />
+Senior backend engineer and technical lead focused on building **scalable platforms, distributed systems, and production AI applications**.
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=summiya&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-AI%20Platform%20%2B%20Backend-00C9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to-Senior%20%2F%20Lead%20Roles-7F00FF?style=for-the-badge" />
-
-</div>
+I work across backend architecture, cloud infrastructure, data systems, APIs, and applied AI — with a strong emphasis on **reliability, security, maintainability, performance, and long-term system evolution**.
 
 ---
 
-## ✨ About Me
+## Engineering Focus
 
-I’m a **Senior Backend Engineer and Technical Lead** focused on building scalable backend systems and production-ready AI platforms.
+**Backend & Platform Architecture**
+- Designing modular services, APIs, and distributed backend systems
+- Building reliable systems around PostgreSQL, Redis, queues, caching, and search
+- Designing for scale, fault tolerance, observability, and operational simplicity
 
-My work combines **backend architecture, distributed systems, cloud, and applied AI** — with a strong focus on reliability, scalability, security, and maintainability.
+**AI Systems**
+- LLM application architecture
+- RAG and retrieval pipelines
+- Vector search and embeddings
+- Agentic workflows and tool integrations
+- Multi-model provider architecture
+- AI security, evaluation, and production reliability
 
----
+**Cloud & Infrastructure**
+- Azure and AWS architecture
+- Dockerized services and CI/CD
+- Event-driven systems and asynchronous workloads
+- Secure secrets, identity, tenant isolation, and production deployment patterns
 
-## 🌈 Core Stack
-
-<div align="center">
-
-### ⚙️ Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### 🤖 AI
-
-![LLMs](https://img.shields.io/badge/LLMs-E100FF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-7F00FF?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00C9FF?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-FF6B6B?style=for-the-badge)
-
-### ☁️ Data & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
+**Technical Leadership**
+- Architecture and design reviews
+- Engineering standards and code quality
+- Mentoring and technical direction
+- Breaking complex systems into maintainable delivery phases
+- Balancing product speed with long-term engineering quality
 
 ---
 
-## 🚀 Featured Project
+## Technology
 
-### 🧠 [Nexus](https://github.com/summiya/nexus)
+### Backend
 
-> **Production-oriented AI workspace and backend platform**
+![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F766E?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B45309?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-15803D?style=flat-square&logo=springboot&logoColor=white)
 
-**Conversational AI** • **Streaming** • **Multi-model providers** • **RAG** • **Vector Search** • **Agents** • **RBAC** • **Multi-tenancy** • **Azure**
+### Data & Infrastructure
 
-<div align="center">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-B91C1C?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0F766E?style=flat-square&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0369A1?style=flat-square&logo=docker&logoColor=white)
 
-<a href="https://github.com/summiya/nexus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=summiya&repo=nexus&theme=radical&hide_border=true" />
-</a>
+### Cloud & Delivery
 
-</div>
+![Azure](https://img.shields.io/badge/Azure-0369A1?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-4F46E5?style=flat-square&logo=githubactions&logoColor=white)
 
----
+### AI Engineering
 
-## 🎯 Engineering Focus
-
-<div align="center">
-
-💜 **Clean Architecture** &nbsp; • &nbsp;
-💙 **Distributed Systems** &nbsp; • &nbsp;
-💗 **AI Platforms** &nbsp; • &nbsp;
-💚 **Cloud Scale**
-
-<br/><br/>
-
-**Python • Java • FastAPI • Spring Boot • LLMs • RAG • Agents • PostgreSQL • Redis • Docker • Azure**
-
-</div>
+![LLMs](https://img.shields.io/badge/LLM%20Systems-6D28D9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![Agents](https://img.shields.io/badge/Agentic%20AI-0F766E?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-0369A1?style=flat-square)
+![AI Security](https://img.shields.io/badge/AI%20Security-B91C1C?style=flat-square)
 
 ---
 
-<div align="center">
+## What I Build
 
-### 💫 Building scalable backend systems for the AI era.
+I am most interested in systems where strong backend engineering meets AI:
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:00C9FF,50:E100FF,100:7F00FF" />
+- AI-enabled SaaS platforms
+- Multi-tenant backend systems
+- Retrieval and knowledge systems
+- Agentic applications
+- Internal AI platforms
+- High-throughput APIs and event-driven services
+- Secure model integrations
+- Production systems that need to scale without becoming difficult to maintain
 
-</div>
+---
+
+## Architecture Principles
+
+> Build for clarity first. Scale deliberately. Keep boundaries strong. Make failure observable.
+
+- Clear domain boundaries
+- Secure tenant isolation
+- Strong API contracts
+- Async where it improves throughput
+- Idempotent workflows
+- Measurable performance
+- Production observability
+- Testing as part of architecture
+- Infrastructure designed for change
+
+---
+
+## Current Direction
+
+I am deepening my work in **Python, Java, FastAPI, Spring Boot, distributed systems, LLM applications, RAG, agentic AI, cloud architecture, and production AI infrastructure**.
+
+My goal is to keep building at the intersection of **backend engineering, AI systems, and technical leadership**.
+
+---
+
+### Open to
+
+**Senior Backend Engineer · AI Backend Engineer · AI Platform Engineer · Applied AI Engineer · Technical Lead**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&section=footer&color=0:0F766E,50:1E3A8A,100:111827" />
